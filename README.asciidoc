@@ -8,6 +8,13 @@
 
 === Ordered list
 
+.Feature
+[width="100%",options="header,footer"]
+|====================
+| Meyve |  Sebze
+|  Elma|  Pırasa
+| Armut |  Domates
+|====================
 * Sebze
 ** Pırasa
 ** Domates
